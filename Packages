@@ -1,0 +1,15 @@
+Package: com.rel0ad.taptap2
+Name: Tap Tap Revenge 2
+Version: 1.01
+Architecture: iphoneos-arm 
+Description: Tap Tap Revenge 2, of which is somewhat like Guitar Hero.
+Maintainer: Maximus Johnson
+Author: Tapulous/Maximus Johnson
+Section: Games
+Depends: MobileSubstrate
+Filename:  debs/ttr2.deb
+Size: 10260542
+MD5sum: f3caf5d7015c70fea6e50b366f40240a
+SHA1: 7dfe2f38aa348990b8bdb92646899a806f7288e1
+SHA256: 1db4370da9ac5eb765cfe7c43318bedaa43ce99fd8f4ee949f32e88857f44fcd
+
